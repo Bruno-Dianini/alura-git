@@ -10,7 +10,7 @@ TESTE     """
 n1 = float(input('Digite a primeira nota: '))
 n2 = float(input('Digite a segunda nota: '))
 
-me= (n1+n2)-2
+me= (n1+n2)/2
 
 print('...........................................')
 print('Sua media foi {:.1f}'.format(me))
